@@ -318,7 +318,7 @@ video = video2;
 track_color = [255, 102, 142,255]
 dist_threshold = 145;
 threshold = 20;
-trail = 50;
+trail = 75;
 video.loop();
 
 
@@ -343,7 +343,7 @@ video.loop();
 threshold = 18;
 track_color = [255, 138, 150,255];
 dist_threshold = 50;
-trail = 50;
+trail = 75;
 
 }
 
